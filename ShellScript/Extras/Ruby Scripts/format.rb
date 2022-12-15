@@ -1,3 +1,4 @@
+# default 
 #!/usr/bin/env ruby -Ku
 #%%%{CotEditorXInput=Selection}%%%
 #%%%{CotEditorXOutput=ReplaceSelection}%%%
